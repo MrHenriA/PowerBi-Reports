@@ -142,9 +142,9 @@ all_breaches.head()
       <th>Breach Date</th>
       <th>Type of Breach</th>
       <th> Breach Attack</th>
-     
-    </tr>
+      </tr>
   </thead>
+    </table>
 
 
 - Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
