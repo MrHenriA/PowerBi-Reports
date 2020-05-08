@@ -131,6 +131,7 @@ all_breaches.head()
 
 - Renamed and removed some columns and ended up with this
 
+
 | Business | State | Organization | People Affected | Breach  Date | Type of Breach | Breach Attack |
 | -------- | ----- | ------------ | --------------- | ------------ | -------------- | ------------- |
 
