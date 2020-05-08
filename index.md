@@ -131,9 +131,20 @@ all_breaches.head()
 
 - Renamed and removed some columns and ended up with this
 
-
-| Business | State | Organization | People Affected | Breach  Date | Type of Breach | Breach Attack |
-| -------- | ----- | ------------ | --------------- | ------------ | -------------- | ------------- |
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Business</th>
+      <th>State</th>
+      <th>Organization</th>
+      <th>Individuals Affected</th>
+      <th>Breach Date</th>
+      <th>Type of Breach</th>
+      <th> Breach Attack</th>
+     
+    </tr>
+  </thead>
 
 
 - Tried to figure out a data schema that will best suite this data. I used http://www.databaseanswers.org/data_models to look through and find some, I found this software issue data model.
