@@ -134,7 +134,6 @@ all_breaches.head()
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>Business</th>
       <th>State</th>
       <th>Organization</th>
