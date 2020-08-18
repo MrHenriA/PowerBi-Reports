@@ -3,4 +3,4 @@
 
 
 - **HIPPA Data breach project** https://github.com/MrHenriA/HippaBreach
-- **Adventure Works Company** https://mrhenria.github.io/AdventureWorks/
+- **Adventure Works Company** https://github.com/MrHenriA/AdventureWorks
